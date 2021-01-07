@@ -1,5 +1,5 @@
 pyperclip==1.8.0
-lxml==4.5.0
+lxml==4.6.2
 selenium==3.141.0
 kivy==1.11.1
 docutils
